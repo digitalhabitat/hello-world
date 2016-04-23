@@ -1,7 +1,7 @@
 # hello-world
 First repository
 
-Computer Engineering student
+Computer Engineering student here.
 Discovered that this site would be very useful to get familar with.
 Look forward to learning new things and meeting new people.
 
