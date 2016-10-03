@@ -1,2 +1,4 @@
 just adding some extra stuff here
 also getting my self more familar with git through the terminal
+
+123abc and other stuff
